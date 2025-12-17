@@ -37,6 +37,9 @@
                                                         Model
                                                     </th>
                                                     <th>
+                                                        Plat
+                                                    </th>
+                                                    <th>
                                                         Type
                                                     </th>
                                                     <th>
@@ -77,6 +80,9 @@
                                                         </td>
                                                         <td>
                                                             <%= b.getTransportation().getModel() %>
+                                                        </td>
+                                                        <td class="whitespace-nowrap">
+                                                            <%= b.getTransportation().getPlate() %>
                                                         </td>
                                                         <td>
                                                             <%= b.getTransportation().getType() %>
