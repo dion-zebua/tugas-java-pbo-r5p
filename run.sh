@@ -3,7 +3,7 @@
 # Script Maven Tomcat run -> stop -> clean
 # PROJECT_PATH="/c/Users/Dion/Documents/java/rentalin"
 
-mvn clean -f "c:\Users\Dion\Documents\java\rentalin\pom.xml"
+mvn clean
 
 # mvn tomcat7:shutdown -f "$PROJECT_PATH/pom.xml"
 
