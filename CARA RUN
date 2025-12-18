@@ -7,3 +7,6 @@ Setup ENV JAVA dan MAVEN pada OS
 
 Pada terminal, masuk ke path foldernya (rentalin) lalu jalankan script runnya dengan ketik
 mvn tomcat7:run
+
+Lalu buka webnya
+http://localhost:9090/rentalin/
